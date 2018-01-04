@@ -1,0 +1,97 @@
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\checker_0.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\earth.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\earthmap1k_0.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\eku-logo.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\floor.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\sky.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\Content\sky_0.xnb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\2-1.exe
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\2-1.pdb
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\obj\x86\Debug\2-1.csprojResolveAssemblyReference.cache
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\obj\x86\Debug\2-1.exe
+C:\Users\ekustudent\Desktop\2-1-earths\2-1\obj\x86\Debug\2-1.pdb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\checker_0.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\earth.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\earthmap1k_0.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\eku-logo.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\floor.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\sky.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\Content\sky_0.xnb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\2-1.exe
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\2-1.pdb
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\obj\x86\Debug\2-1.csprojResolveAssemblyReference.cache
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\obj\x86\Debug\2-1.exe
+C:\Users\ekustudent\Desktop\2-13-space-earth\2-1\obj\x86\Debug\2-1.pdb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\Anamanaguchi_-_08_-_Jetpack_Blues_Sunset_Hues.wma
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\Anamanaguchi_-_08_-_Jetpack_Blues_Sunset_Hues.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\boing2.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\checker_0.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\earth.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\earthmap1k_0.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\eku-logo.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\floor.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\sky.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\sky_0.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\2-1.exe
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\2-1.pdb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\obj\x86\Debug\2-1.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\obj\x86\Debug\2-1.exe
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\obj\x86\Debug\2-1.pdb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\bgtrackBohren.wma
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\bgtrackBohren.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\marble_0.xnb
+C:\Users\Aaron\Documents\_School\CSC 316 Console Game Design\2-17-space-earth-fixed\2-17-space-earth-fixed\2-1\bin\Windows\x86\Debug\Content\playerUnit.xnb
