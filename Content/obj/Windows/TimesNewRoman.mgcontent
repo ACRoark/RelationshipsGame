@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/Relationships Game/Assignment 2/2-1/Content/TimesNewRoman.spritefont</SourceFile>
+  <SourceTime>2017-04-19T10:01:37.5562221-04:00</SourceTime>
+  <DestFile>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/Relationships Game/Assignment 2/2-1/Content/bin/Windows/TimesNewRoman.xnb</DestFile>
+  <DestTime>2017-05-11T19:03:16.3082783-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-01-16T07:15:30-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-01-16T07:15:30-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

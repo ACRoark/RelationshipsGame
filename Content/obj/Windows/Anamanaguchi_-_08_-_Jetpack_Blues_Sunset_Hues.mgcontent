@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/2-17-space-earth-fixed/2-17-space-earth-fixed/2-1/Content/Anamanaguchi_-_08_-_Jetpack_Blues_Sunset_Hues.mp3</SourceFile>
+  <SourceTime>2017-02-17T10:52:32-05:00</SourceTime>
+  <DestFile>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/2-17-space-earth-fixed/2-17-space-earth-fixed/2-1/Content/bin/Windows/Anamanaguchi_-_08_-_Jetpack_Blues_Sunset_Hues.xnb</DestFile>
+  <DestTime>2017-02-19T22:03:45.4206735-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-01-16T07:15:30-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-01-16T07:15:30-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/2-17-space-earth-fixed/2-17-space-earth-fixed/2-1/Content/bin/Windows/Anamanaguchi_-_08_-_Jetpack_Blues_Sunset_Hues.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

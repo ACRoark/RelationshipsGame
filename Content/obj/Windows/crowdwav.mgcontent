@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/Relationships Game/Assignment 2/2-1/Content/crowdwav.wav</SourceFile>
+  <SourceTime>2017-03-08T14:40:41.9069196-05:00</SourceTime>
+  <DestFile>C:/Users/Aaron/Documents/_School/CSC 316 Console Game Design/Relationships Game/Assignment 2/2-1/Content/bin/Windows/crowdwav.xnb</DestFile>
+  <DestTime>2017-05-11T19:03:04.7628651-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-01-16T07:15:30-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-01-16T07:15:30-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
